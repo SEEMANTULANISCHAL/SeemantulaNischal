@@ -36,13 +36,14 @@
     <br />
     <br />
 
-</p>
 ## Languages and Tools
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,js,cs,react,nodejs,dotnet,bootstrap,html,css,mongodb,firebase,mysql,tensorflow,opencv,pytorch,git,bitbucket,anaconda,netlify,postman,vscode&perline=9)](https://skillicons.dev)
 <br>
 <br>
+
+</p>
 
 ## Commits and streaks
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seemantulanischal&" alt="nischal" /></p>
