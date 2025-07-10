@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Nischal Seemantula</h1>
 
-## <p align="center"> A passionate Software developer from India </p>
+## <p align="center"> A passionate Software developer </p>
 
 <br>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seemantulanischal&label=Profile%20views&color=0e75b6&style=flat" alt="seemantulanischal" /> </p>
 
-- 🔭 I’m currently working as a Machine Learning Intern @ [LTIMindtree](https://www.ltimindtree.com/)
+- 🔭 I’m currently working as a Data Engineer Intern @ [Delaware North](https://www.delawarenorth.com)
 
 - 🌱 I’m currently learning **OCR Models**
 
